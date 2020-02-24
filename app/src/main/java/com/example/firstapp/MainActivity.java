@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Toast.makeText(MainActivity.this, "Presiona el botonM", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Boton presionado", Toast.LENGTH_SHORT).show();
                 intentExample();
 
 

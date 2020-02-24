@@ -24,7 +24,7 @@ public class Main2Activity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(Main2Activity.this, "Presiona el boton", Toast.LENGTH_SHORT).show();
+                Toast.makeText(Main2Activity.this, "Usuario ingresado", Toast.LENGTH_SHORT).show();
             }
         });
     }

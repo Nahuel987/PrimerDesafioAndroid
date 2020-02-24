@@ -54,8 +54,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextUser"
-        android:autofillHints="" />
+        app:layout_constraintTop_toBottomOf="@+id/editTextUser" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
